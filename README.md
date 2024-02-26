@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm susobhan lal</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h2 align="left">Hi 👋, I'm susobhan lal</h2>
 
 ###
 
