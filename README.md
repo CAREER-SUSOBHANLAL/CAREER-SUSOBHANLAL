@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋, I'm susobhan lal</h2>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=career-susobhanlal" alt="career-susobhanlal" /></a> </p>
-
 - 🔭 I’m currently working on **TDPS Project**
 
 - 🌱 I’m currently learning **Nextjs**
@@ -51,6 +49,8 @@
 </div>
 
 ###
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=career-susobhanlal&show_icons=true&locale=en" alt="career-susobhanlal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=career-susobhanlal&" alt="career-susobhanlal" /></p>
