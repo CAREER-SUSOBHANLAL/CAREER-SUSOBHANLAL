@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋, I'm susobhan lal</h2>
+<h2 align="center">Hi 👋, I'm susobhan lal</h2>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **TDPS Project**
+<h4 align="center">- 🔭 I’m currently working on **TDPS Project**</h4>
 
-- 🌱 I’m currently learning **Nextjs**
+<h4 align="center">- 🌱 I’m currently learning **Nextjs**</h4>
 
 
 ###
@@ -13,6 +13,7 @@
 <img align="left" height="151" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
