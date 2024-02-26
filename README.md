@@ -4,13 +4,14 @@
 <h4 align="center">- 🔭 I’m currently working on **TDPS Project**</h4>
 
 <h4 align="center">- 🌱 I’m currently learning **Nextjs**</h4>
+<img align="left" height="151" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 ###
 
 <br clear="both">
 
-<img align="left" height="151" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
