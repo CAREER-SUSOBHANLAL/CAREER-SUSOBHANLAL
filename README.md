@@ -9,7 +9,7 @@
 
 ###
 
-<br clear="both">
+<br >
 
 
 
